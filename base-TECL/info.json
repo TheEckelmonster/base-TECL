@@ -1,0 +1,11 @@
+{
+	"name": "base-TECL",
+	"version": "0.1.0",
+	"factorio_version": "2.0",
+	"title": "TheEckelmonster's Core Library - Base",
+	"author": "TheEckelmonster",
+	"description": "Compatibility mod/base for my mods.",
+	"dependencies": [
+        "~ TheEckelmonster-core-library >= 0.2.0"
+    ]
+}
